@@ -84,7 +84,7 @@ go vet ./...
 ```
 
 ---
-## 󰚰  New Update : SilverSaphire v0.2.6 / 2026-10-25
+## 󰚰 -  New Update : SilverSaphire v0.2.6 / 2026-10-25
 
 What's New :
 
