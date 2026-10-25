@@ -2,7 +2,7 @@
 # Website: https://s1lverarch.github.io/linuxdistro/
 
 pkgname=silversaphire
-pkgver=0.1.0
+pkgver=0.2.6
 pkgrel=1
 pkgdesc="SilverArch Linux installer — Go TUI + Nim hooks"
 arch=('x86_64')

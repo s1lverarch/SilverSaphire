@@ -1,6 +1,6 @@
 module github.com/s1lverarch/SilverSaphire
 
-go 1.22
+go 1.27.2
 
 require (
 	github.com/charmbracelet/bubbles v0.18.0
