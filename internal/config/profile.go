@@ -73,8 +73,8 @@ type PostInstallSection struct {
 func DefaultProfile() Profile {
 	return Profile{
 		Meta: MetaSection{
-			CreatedBy: "SilverSaphire (ss) v0.1.0",
-			Version:   "0.1.0",
+			CreatedBy: "SilverSaphire (ss) v0.2.6",
+			Version:   "0.2.6",
 			Date:      time.Now().Format("2006-01-02"),
 			Website:   "https://s1lverarch.github.io/linuxdistro/",
 		},
