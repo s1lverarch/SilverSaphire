@@ -1,8 +1,8 @@
-# SilverSaphire
 
-<img width="800" height="450" alt="ss" src="https://github.com/user-attachments/assets/74b34179-2ec4-4861-a84c-4d59b8a56566" />
 
-> The SilverArch Linux Installer — Go TUI + Nim hooks
+# SilverSaphire / The Arch Install Alternative
+
+> The Arch Linux Alternative Installer — Go TUI + Nim hooks
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=17&pause=1000&color=868686&vCenter=true&width=435&lines=Just+A+Installer+For+Arch+And+Based-Distors;Archinstall+Alternative;CachyOS+Kernel+And+linux-rt+...)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 
 ---
-<img width="947" height="1045" alt="image" src="https://github.com/user-attachments/assets/70a179ab-eb6b-4dc9-90d0-c097e4dc07f2" />
+<img width="950" height="329" alt="image" src="https://github.com/user-attachments/assets/d4ada8d0-6ab9-4b92-abe2-bd51c93aae7d" />
 <img width="944" height="354" alt="image" src="https://github.com/user-attachments/assets/7c7289bb-8f60-4d40-a47c-18e2b276be76" />
 <img width="947" height="403" alt="image" src="https://github.com/user-attachments/assets/e53b25f1-6e56-42e0-b08a-435ce7865a2e" />
 
