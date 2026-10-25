@@ -93,14 +93,9 @@ proc hookWelcomeMessage() =
   info "Setting up welcome message..."
   let motd = """
 
-  ███████╗██╗██╗     ██╗   ██╗███████╗██████╗
-  ██╔════╝██║██║     ██║   ██║██╔════╝██╔══██╗
-  ███████╗██║██║     ██║   ██║█████╗  ██████╔╝
-  ╚════██║██║██║     ╚██╗ ██╔╝██╔══╝  ██╔══██╗
-  ███████║██║███████╗ ╚████╔╝ ███████╗██║  ██║
-  ╚══════╝╚═╝╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
 
-  Welcome to SilverArch Linux
+
+  Welcome to Installtion Page
   Web  : https://s1lverarch.github.io/linuxdistro/
   Wiki : https://silverarchlinux.miraheze.org/wiki/
   By   : Silvercore (s1lverarch)
