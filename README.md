@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=17&pause=1000&color=868686&vCenter=true&width=435&lines=Just+A+Installer+For+Arch+And+Based-Distors;Archinstall+Alternative;CachyOS+Kernel+And+linux-rt+...)](https://git.io/typing-svg)
 
 **Author:** Silvercore (s1lverarch) <s1lv3rcore@proton.me>
+
 **Website:** https://s1lverarch.github.io/linuxdistro/
+
 **License:** GPL-v3.0
 
 ---
