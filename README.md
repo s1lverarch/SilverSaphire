@@ -84,8 +84,24 @@ go vet ./...
 ```
 
 ---
+## 󰚰  New Update : SilverSaphire v0.2.6 / 2026-10-25
+
+What's New :
+
+- memory maps + CPU init + ACPI + security mitigations + systemd
+- About screen — opens with Enter on "About", goes back with any key
+- Skip — now s + Tab + Ctrl+S all work
+- Theme chooser — the first step in the installer (StepTheme)
+- Fix Some Bugs In Install Steps
+- Update GoLang From 1.22 To 1.27.2 
 
 <div align="center">
+
+<img width="949" height="485" alt="image" src="https://github.com/user-attachments/assets/41aba533-3478-4c57-a206-059d11798d5f" />
+<img width="950" height="387" alt="image" src="https://github.com/user-attachments/assets/b92fa4db-ce39-4291-8e6f-e13993b83a55" />
+<img width="952" height="444" alt="image" src="https://github.com/user-attachments/assets/3ab3519c-9e4a-478d-8740-f2956d65eee8" />
+
+---
 
 ### Part of the SilverArch Linux Project
 
